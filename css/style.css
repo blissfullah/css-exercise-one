@@ -2,14 +2,15 @@
 /**** body ****/
 body {
   font-size: 14px;
+  background color: yellow;
 }
 
 nav {
-  background color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
   width: 100%;
+}
 
 /**** section ****/
 section {
@@ -33,7 +34,7 @@ h3 {
 }
 
 .element {
-  background-color: green;
+  background-color: yellow;
   height: 100px;
   margin 10px 0;
   width: 100%;
@@ -42,3 +43,7 @@ h3 {
 div {
     background-color: pink;
   }
+
+.last {
+  background-color: red;
+}
